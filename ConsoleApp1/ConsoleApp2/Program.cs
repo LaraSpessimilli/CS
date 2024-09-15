@@ -16,7 +16,6 @@ namespace teste
             Console.WriteLine("{3} multiplicar");
             Console.WriteLine("{4} dividir");
             int MyNum3 = Convert.ToInt32(Console.ReadLine());
-
             if (MyNum3 == 1)
             {
                 int MyNum4 = MyNum1 + MyNum2;
@@ -38,7 +37,5 @@ namespace teste
                 Console.WriteLine("A divisao é: " + MyNum4);
             }
         }
-
     }
 }
-
