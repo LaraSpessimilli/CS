@@ -12,7 +12,7 @@ namespace teste
             int MyNum2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("o que deseja fazer com os valores?");
             Console.WriteLine("{1} somar");
-            Console.WriteLine("{2} subitrair");
+            Console.WriteLine("{2} subtrair");
             Console.WriteLine("{3} multiplicar");
             Console.WriteLine("{4} dividir");
             int MyNum3 = Convert.ToInt32(Console.ReadLine());
